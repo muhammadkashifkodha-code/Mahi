@@ -1,0 +1,6 @@
+{
+  "name": "Mahi AI Sathi",
+  "description": "Native Roman Urdu AI companion with voice chat, task manager, smart reminders, quick notes, daily planner, and research assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
